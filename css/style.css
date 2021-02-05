@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    color: #FFF;
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0, 0, 0, 0.5)), url('../moic.jpg');
+    
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+ol li {
+    margin-bottom: 2px;
+}
+i {
+    margin: 10px;
+    font-size: 22px;
+    color: #FFF;
+}
+p {
+    font-size: 23px;
+    color: yellow;
+}
+.row {
+    margin-top: -10px !important;
+}
